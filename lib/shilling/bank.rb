@@ -50,7 +50,7 @@ class Bank
     ## (convenience) delegate for ledger
     ##  todo/check: use address instead of wallet - why? why not?
     ##   for now single address wallet (that is, wallet==address)
-    @ledger.sufficient_funds?( wallet, amount )
+    @ledger.sufficient?( wallet, amount )
   end
 
 

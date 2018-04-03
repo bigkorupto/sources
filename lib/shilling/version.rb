@@ -2,7 +2,7 @@
 
 module Shilling
 
-  VERSION = '0.1.1'
+  VERSION = '0.2.0'
 
   def self.root
     "#{File.expand_path( File.dirname(File.dirname(File.dirname(__FILE__))) )}"

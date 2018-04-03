@@ -9,7 +9,6 @@ lib/shilling/bank.rb
 lib/shilling/block.rb
 lib/shilling/blockchain.rb
 lib/shilling/cache.rb
-lib/shilling/ledger.rb
 lib/shilling/node.rb
 lib/shilling/pool.rb
 lib/shilling/service.rb

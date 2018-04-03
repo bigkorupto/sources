@@ -6,10 +6,11 @@ w/ public distributed (hyper) ledger book on the blockchain peer-to-peer over HT
 
 
 
-* home  :: [github.com/blockchainaustria/shilling.tools](https://github.com/blockchainaustria/shilling.tools)
-* bugs  :: [github.com/blockchainaustria/shilling.tools/issues](https://github.com/blockchainaustria/shilling.tools/issues)
+* home  :: [github.com/bitshilling/bitshilling.tools](https://github.com/bitshilling/bitshilling.tools)
+* bugs  :: [github.com/bitshilling/bitshilling.tools/issues](https://github.com/bitshilling/bitshilling.tools/issues)
 * gem   :: [rubygems.org/gems/shilling](https://rubygems.org/gems/shilling)
 * rdoc  :: [rubydoc.info/gems/shilling](http://rubydoc.info/gems/shilling)
+
 
 
 ## Command Line
@@ -77,6 +78,7 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'sass'
 gem 'blockchain-lite'
+gem 'ledger-lite'
 ```
 
 run

@@ -12,8 +12,21 @@ require 'optparse'    ## note: used for command line tool (see Tool in tool.rb)
 ### 3rd party gems
 require 'sinatra/base'                         # note: use "modular" sinatra app / service
 
-require 'merkletree'
-require 'blockchain-lite/proof_of_work/block'  # note: use proof-of-work block only (for now)
+
+require 'blockchain-lite/base'
+
+###
+#  add convenience top-level shortcut / alias
+#    "standard" default block for now block with proof of work
+Block   = BlockchainLite::ProofOfWork::Block
+
+
+require 'ledger-lite/base'
+
+###
+# add convenience top-level shortcut / alias
+Ledger = LedgerLite::Ledger
+
 
 
 ### our own code
@@ -24,7 +37,6 @@ require 'shilling/transaction'
 require 'shilling/blockchain'
 require 'shilling/pool'
 require 'shilling/bank'
-require 'shilling/ledger'
 require 'shilling/wallet'
 
 require 'shilling/node'
@@ -50,11 +62,15 @@ module Shilling
      attr_accessor :mining_reward
 
      ## note: add a (†) coinbase  marker
+     ##  fix: "sync" with ledger-lite config!!!!
+     COINBASE = ['Coinbase†']
+=begin
      COINBASE = ['Großglockner†', 'Wildspitze†', 'Großvenediger†',
                  'Hochfeiler†', 'Zuckerhütl†', 'Hochalmspitze†',
                  'Gr. Muntanitz†', 'Hoher Riffler†',
                  'Parseierspitze†', 'Hoher Dachstein†'
                 ]
+=end
 
 
      def initialize

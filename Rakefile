@@ -8,7 +8,7 @@ Hoe.spec 'shilling' do
   self.summary = 'shilling (or schilling) on the blockchain! rock-solid alpine dollar from austria; print (mine) your own shillings; run your own federated shilling central bank nodes w/ public distributed (hyper) ledger book on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time with cryptos'
   self.description = summary
 
-  self.urls    = ['https://github.com/blockchainaustria/shilling.tools']
+  self.urls    = ['https://github.com/bitshilling/bitshilling.tools']
 
   self.author  = 'Gerald Bauer'
   self.email   = 'ruby-talk@ruby-lang.org'
@@ -20,8 +20,10 @@ Hoe.spec 'shilling' do
   self.extra_deps = [
     ['sinatra', '>=2.0'],
     ['sass'],   ## used for css style preprocessing (scss)
-    ['blockchain-lite', '>=1.3.1'],
+    ['blockchain-lite', '>=1.4.0'],
+    ['ledger-lite', '>=1.1.1' ]
   ]
+
 
   self.licenses = ['Public Domain']
 

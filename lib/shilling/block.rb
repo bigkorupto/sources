@@ -1,14 +1,9 @@
 
-
-Block = BlockchainLite::ProofOfWork::Block
-
-## see https://github.com/openblockchains/blockchain.lite.rb/blob/master/lib/blockchain-lite/proof_of_work/block.rb
-
 ######
 ## add more methods
 
-class Block
 
+class Block
 
 def to_h
   { index:             @index,

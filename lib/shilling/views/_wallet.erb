@@ -4,7 +4,7 @@
     <h2>Address</h2>
     <div><%= @node.wallet.address %></div>
     <h2>Balance</h2>
-    <div class="balance">$<%= @node.bank.ledger.wallets[@node.wallet.address] || 0 %></div>
+    <div class="balance">$<%= @node.bank.ledger[@node.wallet.address] || 0 %></div>
   </div>
   <form action="/send" method="post" class="transaction-form">
     <label for="to">To</label>
