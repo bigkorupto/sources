@@ -26,7 +26,8 @@ Und so macht's Wolfgang Küchl persönlich.
 - Kein Anruf beim Betroffenen Mitarbeiter
 - Kein Anruf beim Produktverantwortlichen des Betroffenen Mitarbeiter
   > "Man hat mich von deiner Entlassung nicht einmal verständigt. Als du mich an jenem Freitag anschriebst, 
-  > du kommst nicht ins Firmennetz, hab ich erst durch meine Nachfrage erfahren, was Wolfgang Küchl und Mammad Kabiri entschieden haben."
+  > du kommst nicht ins Firmennetz, hab ich erst durch meine Nachfrage erfahren, was Wolfgang Küchl (Human Resources) 
+  > und Mammad Kabiri entschieden haben."
 - Kein Anruf beim Betriebsrat
 
 Entlassung mit Sofortiger Wirkung per Email und Einschreib-Brief. Und die Sau ist raus!
@@ -34,3 +35,15 @@ Entlassung mit Sofortiger Wirkung per Email und Einschreib-Brief. Und die Sau is
 Auf die Emails des Betroffenen Mitarbeiter wird nicht mehr geantwortet.
 Das Mitarbeiter Emailkonto wird gesperrt / abgedreht.
 
+Nach Gespräch mit dem Betriebsrat und Nachfrage auf Neuigkeiten einige Tage später die Antwort (per Email):
+
+> Aktuell gibt es noch keine Neuigkeiten zu Ihrer Situation.
+> Die Gespräche mit Wolfgang Küchl (Human Resources) wurden aber aufgenommen. Das kann schnell
+> gehen oder aber auch etwas dauern.
+> Sobald ich etwas dazu sagen kann, werde ich mich bei Ihnen melden.
+
+Einige Monate später:
+
+> Bis zu Ihrem Mail war mir die Existenz eines solchen Briefes nicht bekannt.
+> Ich gehe davon aus, dass die HR der UNIQA entsprechende Schritte und eine Kommunikation mit der Arbeiterkammer vornimmt.
+> Ich kann Ihnen dazu beim besten Willen keine Auskunft dazu geben.
