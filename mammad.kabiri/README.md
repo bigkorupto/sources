@@ -27,9 +27,29 @@ Im September
 - 1 Email von der Personalabrechnung weitergeleitet mit Bitte um Bearbeitung
 
 
+## Emails:
 
+Die Sau ist weg! Freude!
 
+```
+Date: 1. Oktober 2020
+From: Mammad Kabiri - To: Gerald Bauer 
+Betreff: Rückgabe deines Equipments (Laptop, Token, Zutrittskarte)
 
+Hallo Gerald,
+
+wir müssen noch die Rückgabe deines Equipments (Laptop, Token, Zutrittskarte) organisieren.
+Wenn du in der nächsten Zeit in Wien bist, können wir uns im Tower treffen. 
+Falls nicht, lass mich bitte wissen, was deine bevorzugte Variante wäre. Danke!
+
+Freundliche Grüße von Ihrem UNIQA Team
+
+M. Kabiri
+UNIQA IT Services
+IT Build
+FrontEnd, Integration & Automation
+Sales Business Services
+```
 
 ---
 
