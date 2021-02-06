@@ -61,7 +61,7 @@ Und  Wolfgang Küchl (Human Resources) schreibt auf die Anfrage per Email:
 > Da wir alle im Homeoffice sind, ist der Brief bei HR nicht eingelangt. 
 > Können Sie mir sagen, an wen der Brief geschickt wurde, damit wir dem nachgehen können.
 
-Und einige Tage spater im Jänner 2021:
+Und einige Tage später im Jänner 2021:
 
 > Wir haben Ihr Schreiben erhalten.
 > Leider müssen wir Ihnen mitteilen, dass die Entlassung gerechtfertigt ist.
