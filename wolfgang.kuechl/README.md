@@ -35,6 +35,14 @@ Entlassung mit Sofortiger Wirkung per Email und Einschreib-Brief. Und die Sau is
 Auf die Emails des Betroffenen Mitarbeiter wird nicht mehr geantwortet.
 Das Mitarbeiter Emailkonto wird gesperrt / abgedreht.
 
+
+---
+
+"Verhandlung" mit Betriebsrat und indirekt mit Wolfgang Küchl (Human Resources)
+
+Zusammenfassung:  Hau' ab Du Sau!
+
+
 Nach Gespräch mit dem Betriebsrat und Nachfrage auf Neuigkeiten einige Tage später die Antwort (per Email):
 
 > Aktuell gibt es noch keine Neuigkeiten zu Ihrer Situation.
@@ -47,3 +55,15 @@ Einige Monate später:
 > Bis zu Ihrem Mail war mir die Existenz eines solchen Briefes nicht bekannt.
 > Ich gehe davon aus, dass die HR der UNIQA entsprechende Schritte und eine Kommunikation mit der Arbeiterkammer vornimmt.
 > Ich kann Ihnen dazu beim besten Willen keine Auskunft dazu geben.
+
+Und  Wolfgang Küchl (Human Resources) schreibt:
+
+> Da wir alle im Homeoffice sind, ist der Brief bei HR nicht eingelangt. 
+> Können Sie mir sagen, an wen der Brief geschickt wurde, damit wir dem nachgehen können.
+
+Und einige Tage spater im Jänner 2021:
+
+> Wir haben Ihr Schreiben erhalten.
+> Leider müssen wir Ihnen mitteilen, dass die Entlassung gerechtfertigt ist.
+>
+> Eventuelle private Unterlagen können Sie gerne nach Absprache mit Hrn. Kabiri nach vorheriger Terminvereinbarung abholen.
