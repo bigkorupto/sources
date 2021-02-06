@@ -1,6 +1,8 @@
 # Uniqa Werbespots in der Corona/Covid-19 Krise
 
-Nähe ist ein Gefühl. Beratung per Klick, per App, persönlich.
+##  Nähe ist ein Gefühl. 
+
+Beratung per Klick, per App, persönlich.
 
 Die Nähe zu unseren Kunden zeichnet UNIQA Beratung aus. 
 Nicht nur weil wir in ganz Österreich vor Ort erreichbar sind. 
