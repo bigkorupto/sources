@@ -27,3 +27,24 @@ Im September
 - 1 Email von der Personalabrechnung weitergeleitet mit Bitte um Bearbeitung
 
 
+
+
+
+
+---
+
+## Emails:
+
+
+```
+Date: 15. März 2020
+From: Gerald Bauer - To: Mammad Kabiri
+Betreff: AW: Mobiles Arbeiten
+
+Servus Mammad,
+   Danke für die Bestätigung. Gruss. Prost. Cheers.
+
+PS: Für den Notfall die Kontaktdaten:
+  - gerald.bauer@XX.com (diese Email) und
+  - 0XXXX / 8XXX  - "Gemeinschafts" Haustelefon (Festnetz)  im Haus wo ich wohne
+```
