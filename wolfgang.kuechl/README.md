@@ -25,6 +25,8 @@ Und so macht's Wolfgang Küchl persönlich.
 
 - Kein Anruf beim Betroffenen Mitarbeiter
 - Kein Anruf beim Produktverantwortlichen des Betroffenen Mitarbeiter
+  > "Man hat mich von deiner Entlassung nicht einmal verständigt. Als du mich an jenem Freitag anschriebst, 
+  > du kommst nicht ins Firmennetz, hab ich erst durch meine Nachfrage erfahren, was Wolfgang Küchl und Mammad Kabiri entschieden haben."
 - Kein Anruf beim Betriebsrat
 
 Entlassung mit Sofortiger Wirkung per Email und Einschreib-Brief. Und die Sau ist raus!
