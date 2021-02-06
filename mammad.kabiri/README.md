@@ -1,6 +1,6 @@
 # Mammad Kabiri   - Gesprächsprotokoll
 
-Leiter der (Software) Business Service Abteilung, Vorgesetzter des Betroffenen Mitarbeiters
+Leiter der (Software) Sales Business Service Abteilung, Vorgesetzter des Betroffenen Mitarbeiters
 
 Zusammenfassung:
 
