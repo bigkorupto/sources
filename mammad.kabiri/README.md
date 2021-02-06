@@ -29,7 +29,9 @@ Im September
 
 ## Emails:
 
-Die Sau ist weg! Freude!
+Die Sau ist weg! Freude! Nach Fristloser Entlassung mit Sofortiger Wirkung per Email (und Einschreib-Brief) und ohne Antwort auf dutzende Emails
+um Bitte um Aufklärung schreibt Mammad Kabiri: 
+
 
 ```
 Date: 1. Oktober 2020
