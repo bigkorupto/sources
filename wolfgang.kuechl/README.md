@@ -50,13 +50,13 @@ Nach Gespräch mit dem Betriebsrat und Nachfrage auf Neuigkeiten einige Tage sp�
 > gehen oder aber auch etwas dauern.
 > Sobald ich etwas dazu sagen kann, werde ich mich bei Ihnen melden.
 
-Einige Monate später:
+Einige Monate später schreibt der Betriebsrat auf Anfrage per Email:
 
 > Bis zu Ihrem Mail war mir die Existenz eines solchen Briefes nicht bekannt.
 > Ich gehe davon aus, dass die HR der UNIQA entsprechende Schritte und eine Kommunikation mit der Arbeiterkammer vornimmt.
 > Ich kann Ihnen dazu beim besten Willen keine Auskunft dazu geben.
 
-Und  Wolfgang Küchl (Human Resources) schreibt:
+Und  Wolfgang Küchl (Human Resources) schreibt auf die Anfrage per Email:
 
 > Da wir alle im Homeoffice sind, ist der Brief bei HR nicht eingelangt. 
 > Können Sie mir sagen, an wen der Brief geschickt wurde, damit wir dem nachgehen können.
@@ -67,3 +67,5 @@ Und einige Tage spater im Jänner 2021:
 > Leider müssen wir Ihnen mitteilen, dass die Entlassung gerechtfertigt ist.
 >
 > Eventuelle private Unterlagen können Sie gerne nach Absprache mit Hrn. Kabiri nach vorheriger Terminvereinbarung abholen.
+
+
