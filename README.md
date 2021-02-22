@@ -200,4 +200,4 @@ das da mit Corona jetzt nichts besser wird.
 Bei etwa zwei der Treffen waren zwei weitere Programmier-Kollegen
 aus der Abteilung von Hr. Kabiri anwesend und
 die gezielte Ausgrenzung und Aushungerung des Betroffenen
-war leider keine Neuigkeit sondern gelebte jahrelange Praxis.
+war leider keine Neuigkeit sondern gelebte jahrelange hingenommene Praxis.
