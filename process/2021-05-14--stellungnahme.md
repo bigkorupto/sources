@@ -7,7 +7,8 @@ Im umseits bezeichneter Rechtssache erstattet der Kläger durch seinen ausgewies
 des aufgetragenen Schriftsatzes der beklagten Partei, dem KV
 zugestellt am 24.04.2021, sohin fristgerecht, nachstehenden
 
-V O R B E R E I T E N D E N    S C H R I F T S A T Z
+
+## Vorbereitenden  Schriftsatz
 
 
 Das Vorbringen der beklagten Partei wird vollinhaltlich bestritten, soweit nicht im Nachstehenden ausdrücklich Außerstreitstellungen erfolgen, und wird das Klagebegehren zur
