@@ -44,12 +44,31 @@ Eine Aufklärung, minimales Entgegenkommen oder auch nur eine "menschliche" Beha
 
 
 
-## Gesprächsprotokolle
+**Update**  Dank an die Arbeiterkammer (AK) Wien für den Rechtsschutz, 
+die Vorbereitung der Klage und die Beauftragung der Rechtsanwaltskanzlei für den Process. 
+
+Das Urteil vom Arbeits- und Sozialgericht Wien vom 28. Februar 2022 (zur Firstlosen Entlassung am 14. September 2020
+und der Klage vom 22. März 2021)
+
+> Im Namen der Republik.  Das Arbeits- und Sozialgericht Wien erkennt durch die Richterin als
+Vorsitzende sowie die zwei fachkundigen Laienrichter in der Rechtssache der klagenden Partei 
+Gerald Bauer  wider die beklagte Partei UNIQA IT Services wegen € 11.328,70 brutto samt Anhang, 
+> nach öffentlicher mündlicher Streitverhandlung zu Recht:
+>
+>  Die beklagte Partei ist schuldig, der klagenden Partei den Betrag von € 11.328,70
+brutto samt 8,58 % Zinsen aus € 10.489,70 ab 24.09.2020 und aus € 839,00 ab
+01.01.2021 zu bezahlen, sowie die mit € 5.248,64 (darin enthalten € 752,60 an
+Barauslagen und € 748,54 an USt) bestimmten Kosten des Verfahrens binnen 14 Tagen
+zu Handen des Klagevertreters zu ersetzen.
+
+
+
+
+
+## Gesprächs (bzw. Gesprächsverweigerungs)protokolle
 
 - [Mammad Kabiri](mammad.kabiri)  - Vorgesetzter des Betroffenen Mitarbeiters
 - [Wolfgang Küchl](wolfgang.kuechl) - Leiter der Personalabteilung
-
-
 
 
 ## Notizen
