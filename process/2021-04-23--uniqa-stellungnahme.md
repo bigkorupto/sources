@@ -15,7 +15,8 @@ bekanntzugeben.
 
 Binnen dieser Frist erstatten wir nachstehenden
 
-A U F G E T R A G E N E N S C H R I F T S A T Z .
+## Aufgetragenen  Schriftsatz.
+
 
 
 2.
