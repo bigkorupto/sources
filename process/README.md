@@ -5,13 +5,13 @@
 Zeitschiene
 
 2020
-- September 23  --  Fristlose Kündigung durch Mammad Kabiri & Wolfgang Küchl  (Per Email)
+- September 23  --  Fristlose Entlassung durch Mammad Kabiri & Wolfgang Küchl  (Per Email)
 
 - Dezember 21   -- (On-Off-On Schikane zur) Erlaubnis Zutritt zum Büro / Räumung des Persönlichen Eigentums (Bücher & Mehr) am Arbeitsplatz
 
 
 2021
--  Jänner       -- Anfrage an UNIQA durch Gerald Bauer mit Schreiben der Arbeiterkammer (AK) - Keine Antwort! Auf Nachfrage - Firstlose Kündigung! Und Tschüss!
+-  Jänner       -- Anfrage an UNIQA durch Gerald Bauer mit Schreiben der Arbeiterkammer (AK) - Keine Antwort! Auf Nachfrage - Firstlose Entlassung! Und Tschüss!
 -  Februar     -- Formelle Anfrage an UNIQA durch Schreiben der Arbeiterkammer (AK)
                     mit Bitte um Verhandlung / Ausgleich (sonst Einreichung Klage)
                    - Keine Antwort Innerhalb Drei Wochen Frist! Auf Nachfrage
