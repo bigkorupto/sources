@@ -5,7 +5,7 @@
 Zeitschiene
 
 2020
-- September 23  --  Fristlose Kündigung durch Mammad Kabiri & Wolfgang Küchl
+- September 23  --  Fristlose Kündigung durch Mammad Kabiri & Wolfgang Küchl  (Per Email)
 
 - Dezember 21   -- (On-Off-On Schikane zur) Erlaubnis Zutritt zum Büro / Räumung des Persönlichen Eigentums (Bücher & Mehr) am Arbeitsplatz
 
