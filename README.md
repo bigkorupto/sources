@@ -1,5 +1,33 @@
 # Dokumente und Notizen zum Fall Mammad Kabiri @ Uniqa
 
+
+
+> Korn Rechtsanwälte OG [in Vollmacht/Auftrag der Uniqa] <br>
+> Gesendet: Mittwoch, 2. Juni 2021 16:37  <br>
+> Betreff: Gerald Bauer / UNIQA ITS
+>
+> Sehr geehrter Herr Kollege!
+>
+> Zurückkommend auf unser gerade geführtes Telefonat darf ich Ihnen noch
+> nachstehenden Link übermitteln:
+>
+> https://github.com/bigkorupto/mammad-kabiri-uniqa
+>
+> Im Sinne einer abschließenden Einigung müsste ein Vergleich
+> die Löschung dieser (und allfällig ähnlicher) Beiträge umfassen
+> samt Erklärung, die Verbreitung vergleichbarer Inhalte
+> zukünftig zu unterlassen sowie ein Stillschweigen
+> über die getroffene Einigung.
+> Dem Gesamtvergleich immanent ist naturgemäß,
+> dass auch meine Mandantin keine finanziellen Forderungen
+> (für allfällige Nichtleistung) an Ihren Mandanten stellen kann.
+>
+> Mit freundlichen kollegialen Grüßen
+>
+
+
+
+
 Worum geht's?
 Jedem Unternehmen steht natürlich frei jeden Mitarbeiter zu kündigen.
 
