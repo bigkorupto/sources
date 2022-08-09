@@ -21,8 +21,10 @@ Zeitschiene
 
 - Juni 8        -- Erster und Vorbereitender Sitzungstag
 
+- October 12    -- Zweiter Sitzungstag (Mit Zeugeneinvernahme)
 
-- Dezember 13   -- Dritter und Letzter Sitzungstag
+- Dezember 1   -- Dritter und Letzter Sitzungstag (Mit Zeugeneinvernahme)
+
 
 2020
 - Februrar 28   -- Urteil
@@ -31,6 +33,8 @@ Zeitschiene
 
 
 
+<details>
+<summary>Einleitungskommentar</summary>
 
 Da der vorgebrachte Grund die Nichterreichbarkeit meiner Wenigkeit
 durch Hr. Kabiri ist - darf ich nochmals darauf hinweisen das Hr.
@@ -156,6 +160,8 @@ El jue, 13 may 2021 a las 11:08, Gerald Bauer
 (<gerald.bauer@gmail.com>) escribió:
 
 
+</details>
+
 
 
 
@@ -188,7 +194,8 @@ Anhang
 - Email Anfrage von Mohammad "Mammad" Kabiri zu Arbeitszeiten [PDF - 2 Seiten (~84kb)](pdfs/2021-04-23--uniqa-stellungnahme--email-kabiri-ii.pdf)
 
 
-**Mai 2, 2021**
+<details>
+<summary>Kommentar Mai 2, 2021</summary>
 
 Die offizielle Stellungnahme ist offensichtlich ein wenig mehr als
 die inoffizielle an die Arbeiterkammer.
@@ -403,12 +410,11 @@ zusammenarbeite nicht verstaendigt wurde und ebenfalls
 Entlassung mit sofortiger Wirkung.     Schliesslich darf ich
 einbringen das die Corona-Pandemie eine Ausnahmesituation ist / war.
 Sorry ist doch wieder laenger geworden.
+</details>
 
 
-
-
-
-**Mai 6, 2021**
+<details>
+<summary>Kommentar Mai 6, 2021</summary>
 
 Darf ich zur heutigen (Do. 6. Mai) Besprechung um 16.00 Uhr kurz
 zwei Punkte (absichtliche/offensichtliche Lügen) aus der
@@ -1213,10 +1219,12 @@ version wollen die hin in diesem Jahr (und im nächsten)?
 
       Sorry wenn das zu informal ist.
       Danke für die Unterstützung. Gruss. Prost. Cheers.
+</details>
 
 
 
-**Mai 14 2022**
+<details>
+<summary>Kommentar Mai 14 2022</summary>
 
  Darf ich mir erlauben einen kleinen Nachtrag zum Firmenrechner (auch
 intern bekannt als UAP - Uniqa Arbeitsplatz)
@@ -1355,12 +1363,7 @@ zurueckgenommen / zurueckgerollt!
 
 Und so weiter und so fort.
 
-
-
-
-
-
-
+</details>
 
 
 
@@ -1373,24 +1376,230 @@ Und so weiter und so fort.
 
 
 
+## 8. Juni 2021  - Erster und Vorbeireitender Sitzungstag
 
 
-
-## Das Protokoll vom 8. Juni 2021 (Erster und Vorbeireitender Sitzungstag)
-
+Das Protokoll
 [PDF - 2 Seiten (~88kb)](pdfs/2021-06-14--protokoll_von_2021-06-08.pdf)
 
 
 
-## Das Protokoll von 13. Dezember 2021  (Dritter und Letzter Sitzungstag)
+## 12. Oktober 2021 - Zweiter Sitzungstag
+
+
+UNIQA Urkundenvorlage  - 6 Oktober 2021 -
+[PDF - 4 Seiten (~78kb)](pdfs/2021-10-06--uniqa-urkundenvorlage.pdf)
+
+- Aufforderungschreiben Arbeiterkammer (AK) [PDF - 3 Seiten (~69kb)](pdfs/2021-10-06--uniqa-urkundenvorlage--aufforderungsschreiben-ak.pdf)
+- (Nachgereichtes) Zeiterfassungsblatt von Gerald Bauer [PDF - 4 Seiten (~126kb)](pdfs/2021-10-06--uniqa-urkundenvorlage--zeiterfassungsblatt.pdf)
+- (Auto-Generierte) Zusage Jourfix (JFX) von Mai 22 [PDF - 1 Seite (~24kb)](pdfs/2021-10-06--uniqa-urkundenvorlage--zusage-jourfix-2020-05-22.pdf)
+- (Auto-Generierte) Zusage Jourfix (JFX) von Juni 17 [PDF - 1 Seite (~25kb)](pdfs/2021-10-06--uniqa-urkundenvorlage--zusage-jourfix-2020-06-17.pdf)
+- Email zu Jourfix (JFX) von Juni 17 [PDF - 1 Seite (~54kb)](pdfs/2021-10-06--uniqa-urkundenvorlage--email-jourfix-2020-06-17.pdf)
+
+
+<details>
+<summary>Kommentar zur Urkundenvorlage</summary>
+
+> In der bezeichneten Angelegenheit
+> übermittle ich Ihnen die nunmehr eingelangte Urkundenvorlage der Gegenseite
+> zu Ihrer Kenntnisnahme und mit der Bitte um Ihre Stellungnahme und verbleibe.
+
+Absurde Vorwuerfe zur Arbeitszeit wie bekannt.  Ich  war der
+3rd-Level Support  (und "Chefentwickler")
+fuer das Point-Of-Sale (POS d.h. Kassasystem) "Offline" Backup System
+seit Jahren fuer Hr. Richard Traindl als Produkt /
+Projektverantwortlichen aus der "Analyse" Abteilung.
+
+3rd-Level Support heisst wenn Richard Traindl als "einziger"
+2nd-Level Support nicht weiter weis - dann arbeiten wir zusammen bzw.
+ich uebernehme den Fall (nicht organisatorisch sondern technisch als
+Programmierer / "Chefentwickler"). .
+
+  Ein klassischer Organisationsfehler  (verursacht durch eine
+Umstrukturierung der Abteilungen von vor 4-5 Jahren) wo ich einen
+Vorgesetzten unterstellt bin / wurde in "offizieller" Linie - der
+seit Anbeginn mich rausschmeissen will und fuer den ich nicht arbeite
+(sondern eben fuer Hr. Richard Traindl zu 100 %
+Ressourceauslastung/buchung).
+
+Die Arbeitszeiten wurden wie ueblich mt Hr. Richard Traindl - den
+Projektverwantwortlichen abgestimmt - zuletzt Ende August persoenlich
+ohne Beschwerden oder irgendeine Beanstandung oder Verwarnung - im
+Gegenteil wir habe Urlaubsplaene fuer den Herbst besprochen /
+abgesprochen.
+
+Hr. Kabiri - als "Personalverantwortlicher" - hat offensichtlich
+absichtlich in böser Absicht seine "Pflicht" vernachlässigt um mich
+sozusagen "auszuhungern".   Mein offizieller Computer der UNIQA war
+nicht einsatzfähig seit Anbeginn (schon vor Corna) mit Wissen von Hr.
+Kabiri  und  Hr. Kabiri hat in den sieben Monaten kein einziges Mal
+ein Gespraech gesucht oder angerufen (oder eine Telefonnachricht am
+Anrufbeantworter) hinterlassen (im "Home-Office" des Klaegers d.h.
+meiner Wenigkeit).    Da irgendetwas aus den nachtraeglich
+aufgezeichneten Arbeitszeiten rauszulesen und zu unterstellen ist
+absurd.
+
+Ich kann gerne meine (alte) Stellungnahme  - siehe online
+https://github.com/bigkorupto/sources#notizen fuer weitere
+Hintergruende ueberarbeiten.  Wenn ich nochmals die Fakten
+zur Kommunikation von Hr. Kabiri in der Corona-Kriste hervorheben darf:
+
+- Kein (Null) Anruf (im Home Office) seit Beginn der Corona-Krise mit
+dem Betroffenen (Gerald Bauer)
+  d.h kein (Null) Anruf in 7 Monaten
+- Kein Versuch eines personlichen Gespraeches (in sieben Monaten)
+  - etwa - Wie geht's im Home Office? Wie laeuft's mit der Arbeit? usw.
+- Keine (Null) Nachrichten auf dem Anrufbeantworter (im Home Office)
+- Kein Hilfestellung irgendeiner Art
+  - Auf die Bitte (per Email) ob ich den Buerocomputer abholen kann,
+wird wochenlang nicht geanwortet.
+  - Auf die Nachricht (per Email) das der Sicherheitstoken und die
+Einwahl im VPN nicht funkt,
+    wird nicht geanwortet.
+- Bei der Einwahl als "Anonymer" Gast via Internet (und nicht VPN) bei
+der Team-Webkonferenz im Juni -
+  sagt Hr. Kabiri nur - wer ist der "Anonyme" Gast? Ich melde mich.
+Und das war's.
+  Kein Hallo. Nichts.
+  Hr. Kabiri konferiert eine Stunde und natuerlich keine Frage, keine
+Kommentar wie es weiter geht
+  und es gibt natuerlich auch keine schriftlichen (Email) Protokolle
+  (wie in anderen Abteilungen) ueblich zur Team-Webkonferenz - um
+weitere Schritte festzuhalten.
+-  Eine klare (schon Vor-Corona bekannte) gezielte Ausgrenzung und
+Aushungerung -
+   die in der Isolation im Home Office die Wirkung noch verstaerkt
+   und die Machtlosigkeit des Betroffenen noch staerker offenlegt.
+- Keine Nachfrage (wenn es Probleme gaebe) beim Projektverantworlichen
+(Richard T.)
+  - Keine Benachrichtigung zur firstlosen Entlassung des Betroffenen
+- usw. und so fort.
+
+Es ist offensichtlich das Hr. Kabiri - die Corna/COVID-19 Pandemie
+benutzt hat - um mich endgültig loszuwerden - in dem er den Klaeger
+d.h. meine Wenigkeit - in boeser Absicht "brutal" kaltgestellt und
+ausgegrenzt hat (als bekannte Fortsetzung bereits vor Corana)
+
+
+
+Als kleiner "menschlicher" Nachtrag, um die "Brutalitaet" von Hr.
+Kabiri zu unterstreichen:
+
+Ich war nach dieser monatenlangen Ausgrenzung (und der Isolation)
+natuerlich verzweifelt und psychologisch angeschlagen (alles geht
+langsamer und braucht seine Zeit).
+Zusäztlich hat das "Home Office" bei mir nicht funktioniert da ich ja
+kein "Home" habe - und die sprichwoertliche Decke
+auf den Kopf gefallen ist - etwa durch die Gewaltausbrueche im Haus
+durch den Vaters (der ein 70+ Jaehriger Choleriker ist usw.) angeheizt
+von meinen Bruder (50+).
+
+Der Plan war wie mit Hr. Traindl (persoenlich bei einem vor-ort
+treffen in Wien) abgesprochen in das Buero zurueckzukehren im Herbst.
+Wie gesagt Hr. Kabiri  - der theoretisch fuer mich zustaendig war
+in der Krise -
+   hat von dem ganzen nichts mitbekommen - psychologisch angeschlagen?
+probleme im "home office"? usw. -
+im Gegenteil er hat offensichtlich die Ausgrenzung
+   brutal in der Korana-pandemie weiterbetrieben - und sein Ziel erreicht.
+
+
+
+Noch ein kleiner Nachtrag und Kommentar zu zwei Punkten:
+
+> Im Fall von technischen Problemen
+> hätte der Kläger unsere „Helpline“ oder seinen Vorgesetzten kontaktieren können,
+> die ihn hierbei unterstützt hätten.
+
+Die Heuchelei ist ein Wahnsinn.  Bereits im Jänner (vor Corona) hat
+der Klaeger
+ noch mit vier Eskalationstufen versucht seinen Vorgesetzten
+mitzuteilen und zu bitten
+ den Rechner arbeitsfaehig zu machen.
+
+ 1) Mit einen persoenlichen Gespräch. Anwort von Hr. Kabiri -
+Schleich' Dich endlich. Wenn was nicht
+    pass hier ist die Tuer usw.
+ 2) Eine Email an alle Entwicklerkollegen in der Gruppe zur
+"Sensibilisierung" meiner "Ausnahmesituation".
+    Verstaendlich durch die Ausgrenzung - keine Soliddaritbekundung
+oder Unterstuetzung.
+ 3) Email an den Technik "Oberchef" Hr. Johannes Mayer und Hr. Kabiri
+um Bitte die
+    Absurde Situation meines Rechners zu beheben.
+    Die Antwort kommt persoenlich von Hr. Kabiri - Schicke keine
+Emails in meinen Namen.
+ 4) Email an den Technik "Oberchef" in meinen Namen mit Hr. Kabiri in Kopie
+    Die Antwort kommt persoenlich von Hr. Kabiri - Schicke keine
+Emails an den Technik "Oberchef".
+    Wenn Du Probleme mit dem Arbeitsrechner hast oder Du einen
+Gespraechstermin bei Hr. J. Mayer
+    suchst dann bitte melde Dich bei mir. Siehe Punkt 1).
+
+  Soweit ich mich erinnern kann habe ich noch ein oder zweimal einige
+Wochen gestreckt
+ nachgefragt. Die letzte Nachfrage um Bitte um Behebung war im Februar
+und ist "Eskaliert"
+  in eine Schimpftirade von Hr. Kabiri. Schleich' Dich endlich. Du
+hast Dezember versprochen
+   das Du gehst - jetzt ist Februar und Du bist noch immer da. Wann
+schleichst Dich endlich usw.
+
+
+> Der Kläger führt in diesem Mail weiter aus, dass er nach seinem Plan (über den er uns naturgemäß
+> nie informiert hat) dann im Sommer die vielen Minusstunden abarbeiten (oder wenn möglich
+> gegen Gehaltsreduzierung abschreiben) wird. „Im Sommer“ hat der Kläger jedoch keine
+> Minusstunden abgearbeitet (selbst die Anzahl der vorgelegten E-Mails an Herrn Traindl über
+> angebliche Arbeitsleistungen nimmt ab Mai 2020 stark ab); von einer „Abschreibung“ seiner
+> Minusstunden im Sinne einer Gehaltsreduktion war zudem keine Rede.
+>  Der Kläger hat sich diesbezüglich überhaupt nicht an seinen Vorgesetzten gewandt.
+
+  Der Klaeger hat bereits im Jaenner ueber 40 (oder 50) Minusstunden
+gehabt (vor Korona/COVID-19)
+  und Hr. Kabiri hat monatelang im Buero nicht mit den Klaeger geredet
+(obwohl Vorgesetzte).
+   Die totale Ausgrenzung usw.
+   Wegen der Minusstunden hat Hr. Kabiri "ueberraschend" ausnahmsweise
+   bei mir persoenlich vorgesprochen / angefragt -
+   was mit den 48 (oder 50) Minusstunden ist?
+
+   Und meine muendliche (als auch schriftliche per Email Antwort im Buero) war
+   das meine Preferenz eine "Abschreibung" durch Gehaltsreduzierung
+ist (soweit das laut Betriebsrat moeglich ist)
+   andernfalls waere "im Sommer" - noch vor Corna - eine Abarbeitung
+ein anderer Vorschlag.
+
+   Dem Hr. Kabiri ist das alles bekannt von bereits Vor-Korona.
+  Hr. Kabiri kennt meine 3rd-Level Wartungsarbeit seit Jahren und
+   weiss das ich der Technikverantwortliche bin wenn es brennt und
+niemand mehr weiter weis als letzte Instanz
+  und da meistens alles reibungslos laeuft -
+   in aller Bescheidenheit aufgrund der Qualitaetsarbeit des Klaegers
+in den Vorjahren usw.
+
+</details>
+
+
+
+Vorgeladene Zeugen:
+ - Gerald Bauer
+ - Mohammad "Mammad" Kabiri (de jure Vorgesetzter)
+
+Das Protokoll
+[PDF - 20 Seiten (~200kb)  ](pdfs/2021-10-29--protokoll_von_2021-10-12.pdf)
+
+
+
+## 1. Dezember 2021  - Dritter und Letzter Sitzungstag
+
 
 Vorgeladene Zeugen:
 -  Dalibor Jonic  (ehemaliger Kollege - gekündigt)
 -  Reinhard Franz  (Betriebsrat)
 -  Richard Traindl (de facto Vorgesetzer)
--  Mohammad "Mammad" Kabiri (de jure Vorgesetzter)
 -  Wolfgang Küchl (Personlchef)
 
+Das Protokoll
 [PDF - 15 Seiten (~171kb)  ](pdfs/2022-02-28--protokoll_von_2021-12-13.pdf)
 
 
