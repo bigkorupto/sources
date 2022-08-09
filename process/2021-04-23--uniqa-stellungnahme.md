@@ -1,6 +1,7 @@
 # UNIQA Stellungnahme zur Klage
 
-Quelle - [PDF - 5 Seiten (~100kb)](pdfs/2021-04-23--uniqa-stellungnahme.pdf)
+(Quelle: [PDF - 5 Seiten (~100kb)](pdfs/2021-04-23--uniqa-stellungnahme.pdf))
+
 
 
 

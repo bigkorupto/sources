@@ -196,7 +196,7 @@ UNIQA Stellungnahme zur Klage
 >
 > -- UNIQA IT Services GmbH
 >
-> [Mehr ...](2021-05-14--uniqa-stellungname.md)
+> [Mehr »](2021-04-23--uniqa-stellungnahme.md)
 
 
 [PDF - 5 Seiten (~100kb)](pdfs/2021-04-23--uniqa-stellungnahme.pdf)
@@ -1384,6 +1384,16 @@ Und so weiter und so fort.
 
 
 ## Stellungnahme zu UNIQA Stellungnahme
+
+> Das Vorbringen der beklagten Partei wird vollinhaltlich
+> bestritten, soweit nicht im Nachstehenden ausdrücklich
+> Außerstreitstellungen erfolgen, und wird das Klagebegehren
+> zur
+> Gänze aufrechterhalten.
+> Im Einzelnen ist dazu auszuführen wie folgt [...]
+>
+> [Mehr »](2021-05-14--stellungnahme.md)
+
 
 [PDF - 28 Seiten (~6MB)](pdfs/2021-05-14--stellungnahme.pdf)
 
