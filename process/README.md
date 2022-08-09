@@ -184,6 +184,21 @@ UNIQA Einspruch zur Klage
 
 UNIQA Stellungnahme zur Klage
 
+> [...]
+>
+> Aus den genannten Gründen stellen wir den
+>
+> A N T R A G
+>
+> das ASG Wien möge die beantragten Beweise aufnehmen,
+> die Klage abweisen und den Kläger
+> zum Ersatz unserer Verfahrenskosten verpflichten.
+>
+> -- UNIQA IT Services GmbH
+>
+> [Mehr ...](2021-05-14--uniqa-stellungname.md)
+
+
 [PDF - 5 Seiten (~100kb)](pdfs/2021-04-23--uniqa-stellungnahme.pdf)
 
 Anhang
